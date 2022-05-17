@@ -1,7 +1,7 @@
 # cybersecurity-waf
 
 
-### Contents:
+## Table of Contents:
 - [Introduction](#introduction)
     - [How WAFs Work](#how-wafs-work)
     - [Operation Modes](#operation-modes)
