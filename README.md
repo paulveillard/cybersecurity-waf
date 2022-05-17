@@ -1,4 +1,4 @@
-# cybersecurity-waf
+# Web Application Firewall (WAF)
 
 
 ## Table of Contents:
